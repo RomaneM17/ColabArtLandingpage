@@ -1,0 +1,41 @@
+.text-pink
+{
+	color:grey !important;
+}
+
+.ART
+{
+	padding: 1em;
+	margin: 0 0.8em 0.8em 0;
+	font-family: Arial;
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+}
+.bdp
+{
+	color:black;
+}
+.banniere
+{
+	color:grey !important;
+}
+.background
+{
+	color:white !important;
+	background-color: #FFC000 !important
+}
+#app
+{
+	font-family: Arial;
+	font-weight:bold;
+	font-size: 40px;
+}
+.apple
+{
+	text-align: center;
+}
+.telechargement
+{
+	text-align: center;
+}
